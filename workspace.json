@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "drag-drop-test": "apps/drag-drop-test",
-    "drag-drop-test-e2e": "apps/drag-drop-test-e2e"
+    "drag-drop-test-e2e": "apps/drag-drop-test-e2e",
+    "interfaces": "libs/interfaces"
   }
 }
